@@ -16,7 +16,7 @@ namespace Capa_Datos.Implementacion
         private readonly ProductosContext _context;
 
         string toto;
-
+        private string estaVariableGITHUB = "esta variable fue creada desde github"
 
         public GenericRepositorio(ProductosContext context)
         {
