@@ -3,6 +3,7 @@ using Capa_Datos.Interfaces;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
@@ -14,7 +15,7 @@ namespace Capa_Datos.Implementacion
     {
         private readonly ProductosContext _context;
 
-
+        string toto;
 
 
         public GenericRepositorio(ProductosContext context)
