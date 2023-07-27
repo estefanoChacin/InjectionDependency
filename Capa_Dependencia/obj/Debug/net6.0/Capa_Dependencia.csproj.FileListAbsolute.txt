@@ -1,0 +1,38 @@
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Dependencia.deps.json
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Dependencia.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Datos.dll
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Entidad.dll
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Negocio.dll
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Datos.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Entidad.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Negocio.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.csproj.AssemblyReference.cache
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.AssemblyInfoInputs.cache
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.AssemblyInfo.cs
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.csproj.CoreCompileInputs.cache
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.csproj.CopyComplete
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\refint\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\Sistema de Venta\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\ref\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Dependencia.deps.json
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Dependencia.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Datos.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Entidad.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Negocio.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Datos.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Entidad.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\bin\Debug\net6.0\Capa_Negocio.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.csproj.AssemblyReference.cache
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.AssemblyInfoInputs.cache
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.AssemblyInfo.cs
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.csproj.CoreCompileInputs.cache
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.csproj.CopyComplete
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\refint\Capa_Dependencia.dll
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\Capa_Dependencia.pdb
+C:\Users\WPOSS\Documents\GlobalAzure\InjectionDependency\Capa_Dependencia\obj\Debug\net6.0\ref\Capa_Dependencia.dll

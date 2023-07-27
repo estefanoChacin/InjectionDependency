@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Crear";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.5.0/viewer.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/viewerjs/1.5.0/viewer.min.css" />
+
+<div class="w-50">
+    <form asp-action="Create" asp-controller="Usuario" enctype="multipart/form-data">
+    <div class="mb-3">
+            <label for="Nombre" class="form-label">Nombre</label>
+        <input type="text" class="form-control" name="Nombre" id="Nombre">
+    </div>
+    <div class="mb-3">
+            <label for="Password" class="form-label">Password</label>
+        <input type="password" class="form-control" name="Contrasena" id="Contrasena">
+    </div>
+    <div class="mb-3">
+            <label for="Rol" class="form-label">Rol</label>
+        <input type="text" class="form-control" name="Rol" id="Rol">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+</div>
