@@ -98,5 +98,9 @@ namespace Inyeccion_Dependencia.Controllers
                 return View();
             }
         }
+        public ActionResult metodoDesdeOtraRama() 
+        {
+            return View();
+        }
     }
 }
