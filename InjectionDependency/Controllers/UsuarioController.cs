@@ -97,5 +97,10 @@ namespace Inyeccion_Dependencia.Controllers
                 return View();
             }
         }
+
+        public ActionResult nuevoMetodo(int id) 
+        {
+            return View();
+        }
     }
 }
