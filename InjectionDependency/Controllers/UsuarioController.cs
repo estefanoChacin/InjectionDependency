@@ -11,7 +11,8 @@ namespace Inyeccion_Dependencia.Controllers
     public class UsuarioController : Controller
     {
         private readonly IUsuarioService _usuarioServices;
-        private string otraVaraible = "esta variable tambien fue creada desde github"
+        private string otraVaraible = "esta variable tambien fue creada desde github";
+        private string preubas = string.Empty;
         public UsuarioController(IUsuarioService usuarioServices)
         {
             _usuarioServices = usuarioServices;
