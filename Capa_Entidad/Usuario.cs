@@ -9,7 +9,7 @@ namespace Capa_Entidad
         public string? Nombreeee { get; set; }
         public string? Contrasena { get; set; }
         public string? Rol { get; set; }
-        public string? pruebaDesdeRama { get; set; }
+        public string? pruebaDesdeRamaaaaaaaaaaa { get; set; }
         public string? otraPrueba { get; set; }
         public string? otraaaa { get; set; }
 
