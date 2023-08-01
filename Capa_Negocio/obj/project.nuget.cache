@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DRja+cj+0B5OnqA5XKXQ8xA1410lfxHDLqwAIvFOjxwGzbXOWn1TgO6JbYL+GVIFrJA4bNZtQ3zwVGJNXY3g9A==",
+  "dgSpecHash": "KfywBn6P0fqgkUNjp684lADUBMUKtQ1J4JF8zNKfXIi8UMfUkVHOvBSmAWbatt40ryRhVRabjbTK9BYStHgakQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WPOSS\\Documents\\GlobalAzure\\InjectionDependency\\Capa_Negocio\\Capa_Negocio.csproj",
+  "projectFilePath": "C:\\Users\\WPOSS\\Documents\\InjectionDependency\\Capa_Negocio\\Capa_Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WPOSS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\WPOSS\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

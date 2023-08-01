@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WPOSS\\Documents\\GlobalAzure\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj": {}
+    "C:\\Users\\WPOSS\\Documents\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WPOSS\\Documents\\GlobalAzure\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj": {
+    "C:\\Users\\WPOSS\\Documents\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WPOSS\\Documents\\GlobalAzure\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj",
+        "projectUniqueName": "C:\\Users\\WPOSS\\Documents\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj",
         "projectName": "Capa_Entidad",
-        "projectPath": "C:\\Users\\WPOSS\\Documents\\GlobalAzure\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj",
+        "projectPath": "C:\\Users\\WPOSS\\Documents\\InjectionDependency\\Capa_Entidad\\Capa_Entidad.csproj",
         "packagesPath": "C:\\Users\\WPOSS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WPOSS\\Documents\\GlobalAzure\\InjectionDependency\\Capa_Entidad\\obj\\",
+        "outputPath": "C:\\Users\\WPOSS\\Documents\\InjectionDependency\\Capa_Entidad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
