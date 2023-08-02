@@ -14,6 +14,8 @@ namespace Inyeccion_Dependencia.Controllers
         private string otraVaraible = "esta variable tambien fue creada desde github";
         private string preubas = string.Empty;
         private string otra  = string.Empty;
+        private string otra22 = string.Empty;
+
 
         public UsuarioController(IUsuarioService usuarioServices)
         {
